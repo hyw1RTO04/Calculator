@@ -19,8 +19,11 @@
    ```bash
    git clone https://github.com/hyw1RTO04/Calculator.git
 2. Перейдите в папку проекта:
+   ```bash
    cd Calculator
+
 3. Запустите калькулятор:
+   ```bash
    python calculator.py
 
 💬 Обратная связь
