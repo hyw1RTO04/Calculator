@@ -10,7 +10,7 @@ def main():
         try:
             expr = input(">>> ").strip()
             if expr.lower() == "quit":
-                print("Выход...")
+                print("Выход из калькулятора...")
                 break
 
             print(calc.evaluate(expr))
