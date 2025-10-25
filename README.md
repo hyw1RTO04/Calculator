@@ -71,7 +71,6 @@ python calculator.py
 - Поддержка скобок и приоритетов операций  
 - История вычислений  
 - Графический интерфейс (Tkinter)  
-- Дополнительные функции: степень, квадратный корень, логарифмы  
 
 ### 💬 Обратная связь
 Если вы нашли ошибку или хотите предложить улучшение — создайте issue или оставьте комментарий! 🤝
@@ -143,7 +142,6 @@ python calculator.py
 - Support for parentheses and operation precedence  
 - Calculation history  
 - Graphical interface (Tkinter)  
-- Additional functions: power, square root, logarithms  
 
 ### 💬 Feedback
 If you found a bug or have suggestions — open an issue or leave a comment! 🤝
