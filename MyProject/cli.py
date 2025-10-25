@@ -9,7 +9,7 @@ def main():
     while True:
         try:
             expr = input(">>> ").strip()
-            if expr.lower() == "quit":
+            if expr.lower() in {"quit", "exit", "выход"}:
                 print("Выход из калькулятора...")
                 break
 
@@ -25,8 +25,6 @@ def main():
         except Exception as e:
             print(f"Неизвестная ошибка: {e}")
 
-
-# ------------------ Мини-тесты ------------------
 if __name__ == "__main__":
     calc = Calculator()
     main()
