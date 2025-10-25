@@ -1,6 +1,6 @@
 # 🧮 Персональный калькулятор на Python / Personal Python Calculator
 
-![Python](https://img.shields.io/badge/Python-3.13.7-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Stars](https://img.shields.io/github/stars/hyw1RTO04/Calculator?style=social)
 
@@ -136,7 +136,7 @@ python calculator.py
 ```
 
 ### 🛠 Tech Stack
-- Python 3.13 🐍  
+- Python 3.14 🐍  
 - Console interface 🖥  
 
 ### 💡 Possible Improvements
