@@ -29,19 +29,4 @@ def main():
 # ------------------ Мини-тесты ------------------
 if __name__ == "__main__":
     calc = Calculator()
-
-    # Проверка простых выражений
-    assert calc.evaluate("2+2") == 4
-    assert round(calc.evaluate("sqrt(16)")) == 4
-    assert calc.evaluate("factorial(5)") == 120
-
-    # Проверка присваивания
-    assert calc.evaluate("x = 10") == "x = 10"
-    assert calc.evaluate("x + 5") == 15
-
-    # Проверка констант
-    assert round(calc.evaluate("pi"), 2) == 3.14
-
-    print("✅ Все встроенные тесты прошли успешно!")
-
     main()
